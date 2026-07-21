@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - Arrow
+  - Enemy
+  - Arrow_Enemy
+  - Diamond
+  - Heart
+  - Trap
+  - Water
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Ground
+  - 
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG3
+    uniqueID: 3091305335
+    locked: 0
+  - name: BG2
+    uniqueID: 1349798417
+    locked: 0
+  - name: BG1
+    uniqueID: 2880078353
+    locked: 0
+  - name: BackThings
+    uniqueID: 3746126531
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Water
+    uniqueID: 2511730693
+    locked: 0
+  - name: Player
+    uniqueID: 3939755901
+    locked: 0
+  - name: Ground
+    uniqueID: 3804873735
+    locked: 0
+  - name: Front_Stuss2
+    uniqueID: 1998910595
+    locked: 0
+  - name: Grass
+    uniqueID: 889757175
+    locked: 0
+  - name: CollectEffect
+    uniqueID: 2826756427
+    locked: 0
+  m_RenderingLayers:
+  - Default
